@@ -6,7 +6,7 @@ classes: wide2
 title: "Research"
 header:
   overlay_image: /assets/images/header.jpg
-  caption:  caption: White Mountains, USA
+  caption: White Mountains, USA
 
 feature_row1:
   - image_path: /assets/images/TropicalForestDisturbance.jpg
