@@ -25,7 +25,7 @@ Sept.2009-Jul.2013    BSc in Geography, Gannan Normal University
 
 Jun.2025–Present    Postdoctoral Associate (Supervisor: Prof. Sherrie Wang), Department of Mechanical Engineering, Massachusetts Institute of Technology
 
-Feb.2022-May.2025   Postdoctoral Associate (Supervisor: Prof. César Terrer), Dept. of Civil and Environmental Engineering, Massachusetts Institute of Technology
+Feb.2024-May.2025   Postdoctoral Associate (Supervisor: Prof. César Terrer), Dept. of Civil and Environmental Engineering, Massachusetts Institute of Technology
 
 Aug.2021–Jan.2022   Geospatial Analyst Intern, SDG Integration Team, United Nations Development Programme, New York, USA (Remote,Part-time)
 
