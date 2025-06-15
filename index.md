@@ -27,8 +27,8 @@ My research focuses on applying remote sensing to better understand when, where,
 ## News
 
 - **June 2025:** I am joining the Department of Mechanical Engineering at MIT as a Postdoctoral Associate!
-- **February 2025:** Our paper “Enhanced algorithm for water transparency estimation in turbid plateau waters using Orbita Hyperspectral (OHS) Imagery,” published in *IEEE Transactions on Geoscience and Remote Sensing*.
 - **April 2025:** I participated in the IALE-North America Annual Meeting in Raleigh, NC.
+- **February 2025:** Our paper “Enhanced algorithm for water transparency estimation in turbid plateau waters using Orbita Hyperspectral (OHS) Imagery,” published in *IEEE Transactions on Geoscience and Remote Sensing*.
 - **December 2024:** I presented my work "Evaluating Environmental Gradients and Regrowth Metrics on Tropical Secondary Forest Aboveground Biomass" at AGU in Washington, D.C.
 - **December 2024:** I presented my work "Monitoring Crop Water Stress across the Conterminous United States Using Harmonized Landsat and Sentinel-2 Data" at AGU in Washington, D.C.
 - **December 2024:** I gave a talk at Boston University titled "Earth Observations for assessing tropical forest changes".
