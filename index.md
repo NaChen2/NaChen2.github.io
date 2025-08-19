@@ -18,17 +18,21 @@ My research focuses on applying remote sensing to better understand when, where,
 
 ## Research Questions
 
-- How can remote sensing be leveraged to monitor and understand ecosystem changes in tropical forests over space and time?
+- How can remote sensing be leveraged to understand ecosystem changes in tropical forests over space and time?
 - How can satellite data improve our ability to assess forest recovery, structure, and carbon dynamics at regional to global scales?
 - How can scalable, data-driven approaches support forest conservation, land management, and climate mitigation efforts?
 
 ---
 
 ## News
-
-- **June 2025:** I am joining the Department of Mechanical Engineering at MIT as a Postdoctoral Associate!
+- **August 2025:** I participated in the U-M Knowledge-Guided Machine Learning (KGML) Workshop at Ann Arbor!
+- **July 2025:** I was invited to give a presentation at Huazhong University of Science and Technology Young Scholars Forum!
+- **June 2025:** Our proposal titled Spatiotemporal Dynamics of Forest Disturbance and Recovery was accepted in AGU 2025!
+- **June 2025:** I had the honor of serving as a NASA panelist.
+- **June 2025:** I joined the Department of Mechanical Engineering at MIT as a Postdoctoral Associate!
 - **April 2025:** I participated in the IALE-North America Annual Meeting in Raleigh, NC.
 - **February 2025:** Our paper “Enhanced algorithm for water transparency estimation in turbid plateau waters using Orbita Hyperspectral (OHS) Imagery,” published in *IEEE Transactions on Geoscience and Remote Sensing*.
+- **January 2025:** I served as a guest lecturer at the University of Maryland, where I gave a talk on Synthetic Aperture Radar.
 - **December 2024:** I presented my work "Evaluating Environmental Gradients and Regrowth Metrics on Tropical Secondary Forest Aboveground Biomass" at AGU in Washington, D.C.
 - **December 2024:** I presented my work "Monitoring Crop Water Stress across the Conterminous United States Using Harmonized Landsat and Sentinel-2 Data" at AGU in Washington, D.C.
 - **December 2024:** I gave a talk at Boston University titled "Earth Observations for assessing tropical forest changes".
