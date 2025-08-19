@@ -24,7 +24,7 @@ Cui, Y., Dong, J., Zhang, C., Yang, J., **Chen, N.**, Guo, P., Di, Y., Chen, M.,
 
 Li, J., Zheng Z., Li, Y., Lyu, H., Ren, J., Cai, X., Du, C., **Chen, N.**, Liu, G., Lei, S., Zhang, R. and Huang, C. (2024) A hybrid algorithm for estimating total nitrogen from a large eutrophic plateau lake using Orbita hyperspectral (OHS) satellite imagery. International Journal of Applied Earth Observation and Geoinformation, 131, 103971.[https://doi.org/10.1016/j.jag.2024.103971](https://doi.org/10.1016/j.jag.2024.103971)
 
-**Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., C. H. L. Silva-Junior Verbesselt, J. and Herold, M. (2024) Revealing the Spatial Variation in Biomass Uptake Rates of Brazil's Secondary Forests. ISPRS Journal of Photogrammetry and Remote Sensing. 208, 233-244. [https://doi.org/10.1016/j.isprsjprs.2023.12.013 (https://doi.org/10.1016/j.isprsjprs.2023.12.013)
+**Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., C. H. L. Silva-Junior Verbesselt, J. and Herold, M. (2024) Revealing the Spatial Variation in Biomass Uptake Rates of Brazil's Secondary Forests. ISPRS Journal of Photogrammetry and Remote Sensing. 208, 233-244. [https://doi.org/10.1016/j.isprsjprs.2023.12.013] (https://doi.org/10.1016/j.isprsjprs.2023.12.013)
 
 **Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., Verbesselt, J. and Herold, M. (2023) Characterizing aboveground biomass and tree cover of regrowing forests in Brazil using multi-source remote sensing data. Remote Sensing in Ecology and Conservation. 9(4), 553 - 567.[https://doi.org/10.1002/rse2.328](https://doi.org/10.1002/rse2.328)
 
