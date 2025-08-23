@@ -11,7 +11,6 @@ header:
 ---
 
 ### Teaching
-
 ## University of Florida 
 Oct. 2025. Guest Lecturer, GEO6938 Advanced Remote Sensing 
 
@@ -36,7 +35,6 @@ Dec. 2020. Guest lecturer, GRS-20306 Remote Sensing
 2016 Spring Semester, Tourism Geography &Natural hazard and prevention & GIS applications
 2016 Spring Semester, World Geography& China Geography 
 2017 Spring Semester, Physical Geography & Human Geography & GIS applications 
-Mentoring: Wageningen University 
 
 ### Mentoring: Wageningen University
 2023 MSc thesis: Zillah Calle, Assessing the factors influencing forest regrowth in South America.
