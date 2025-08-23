@@ -10,24 +10,24 @@ header:
     caption: White Mountains, USA
 ---
 
-### Teaching
-## University of Florida 
+## Teaching
+### University of Florida 
 Oct. 2025. Guest Lecturer, GEO6938 Advanced Remote Sensing 
 
-## University of Maryland, College Park 
+### University of Maryland, College Park 
 Feb. 2025. Guest Lecturer, GEOG272 Remote Sensing 
 
-## Wageningen University 
+### Wageningen University 
 Sept. 2025. Guest Lecturer, GRS-33806 Geo-scripting 
 Feb. 2021. Teaching Assistant and Lab Instructor, GRS-33306 Spatial and Temporal Analysis for Earth and 
 Environment 
 Dec. 2020. Guest lecturer, GRS-20306 Remote Sensing 
 
-## Xuwen NO.1 Middle School 
+### Xuwen NO.1 Middle School 
 2013 Fall Semester, Physical Geography 
 2014 Spring Semester, Human Geography
 
-## Ruijin NO.2 Middle School 
+### Ruijin NO.2 Middle School 
 2014 Fall Semester, Physical Geography 
 2015 Spring Semester, Human Geography
 2015 Spring Semester, Mental health education for high school students 
@@ -36,6 +36,6 @@ Dec. 2020. Guest lecturer, GRS-20306 Remote Sensing
 2016 Spring Semester, World Geography& China Geography 
 2017 Spring Semester, Physical Geography & Human Geography & GIS applications 
 
-### Mentoring: Wageningen University
+## Mentoring: Wageningen University
 2023 MSc thesis: Zillah Calle, Assessing the factors influencing forest regrowth in South America.
 
