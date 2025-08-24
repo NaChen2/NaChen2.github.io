@@ -45,6 +45,7 @@ Dec. 2020. Guest lecturer, GRS-20306 Remote Sensing
 
 2017 Spring Semester, Physical Geography & Human Geography & GIS applications 
 
-## Mentoring: Wageningen University
+## Mentoring
+### Wageningen University
 2023 MSc thesis: Zillah Calle, Assessing the factors influencing forest regrowth in South America.
 
