@@ -15,7 +15,7 @@ header:
 Oct. 2025. Guest Lecturer, GEO6938 Advanced Remote Sensing 
 
 ### University of Maryland, College Park 
-Feb. 2025. Guest Lecturer, GEOG272 Remote Sensing 
+Feb. 2025. Guest Lecturer, GEOG272 Introduction to Earth Observation Science
 
 ### Wageningen University 
 Sept. 2025. Guest Lecturer, GRS-33806 Geo-scripting 
