@@ -25,10 +25,10 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
-- **September 2025:** I served as a guest lecturer for GRS33806 Geoscripting course at Wageningen University!
+- **September 2025:** I served as a guest lecturer for GRS33806 Geoscripting course at Wageningen University.
 - **September 2025:** My sesion proposal on Leveraging BIOMASS, NISAR or Multi-sensors for Comprehensive Forest Monitoring  was accepted in ForestSAT 2026!
-- **August 2025:** I participated in the U-M Knowledge-Guided Machine Learning (KGML) Workshop at Ann Arbor!
-- **July 2025:** I was invited to give a presentation at Huazhong University of Science and Technology Young Scholars Forum!
+- **August 2025:** I participated in the U-M Knowledge-Guided Machine Learning (KGML) Workshop at Ann Arbor.
+- **July 2025:** I was invited to give a presentation at Huazhong University of Science and Technology Young Scholars Forum.
 - **June 2025:** Our proposal titled Spatiotemporal Dynamics of Forest Disturbance and Recovery was accepted in AGU 2025!
 - **June 2025:** I had the honor of serving as a NASA panelist.
 - **June 2025:** I joined the Department of Mechanical Engineering at MIT as a Postdoctoral Associate!
