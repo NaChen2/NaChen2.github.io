@@ -12,7 +12,7 @@ header:
 
 ## Teaching
 ### University of Florida 
-Oct. 2025. Guest Lecturer, GEO6938 Advanced Remote Sensing 
+Oct. 2025. Guest Lecturer, GIS5038c Environmental remote sensing 
 
 ### University of Maryland, College Park 
 Feb. 2025. Guest Lecturer, GEOG272 Introduction to Earth Observation Science
