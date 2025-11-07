@@ -25,12 +25,11 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
-- **November 2025:** I was invited as an Associate Editor for *Remote Sensing in Ecology and Conservation* journal!
 - **October 2025:** I was invited as a guest lecturer for GIS5038c Environmental Remote Sensing course at University of Florida!
-- **October 2025:** I served as a guest editor for *Remote Sensing* journal on "Multi-Sensor Remote Sensing for Soil Moisture Monitoring".
+- **October 2025:** I served as a guest editor for *Remote Sensing* journal on "Land Cover Change Detection: Emerging Algorithms and Applications in Remote Sensing".
 - **September 2025:** I served as a guest lecturer for GRS33806 Geoscripting course at Wageningen University.
 - **September 2025:** My session proposal on Leveraging BIOMASS, NISAR or Multi-sensors for Comprehensive Forest Monitoring was accepted in ForestSAT 2026!
-- **August 2025:** I was invited as a guest editor for *Remote Sensing* journal on "Land Cover Change Detection: Emerging Algorithms and Applications in Remote Sensing"!
+- **August 2025:** I was invited as a guest editor for *Remote Sensing* journal on "Multi-Sensor Remote Sensing for Soil Moisture Monitoring"!
 - **August 2025:** I participated in the U-M Knowledge-Guided Machine Learning (KGML) Workshop at Ann Arbor.
 - **July 2025:** I was invited to give a presentation at Huazhong University of Science and Technology Young Scholars Forum.
 - **June 2025:** Our proposal titled Spatiotemporal Dynamics of Forest Disturbance and Recovery was accepted in AGU 2025!
