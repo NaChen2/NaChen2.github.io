@@ -25,6 +25,7 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
+- **November 2025:** I am honored and grateful to join the editorial team of *Remote Sensing in Ecology and Conservation* journal as an Associate Editor!
 - **October 2025:** I was invited as a guest lecturer for GIS5038c Environmental Remote Sensing course at University of Florida!
 - **October 2025:** I served as a guest editor for *Remote Sensing* journal on "Land Cover Change Detection: Emerging Algorithms and Applications in Remote Sensing".
 - **September 2025:** I served as a guest lecturer for GRS33806 Geoscripting course at Wageningen University.
