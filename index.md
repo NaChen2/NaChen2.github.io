@@ -25,6 +25,10 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
+- **December 2025:** I’m excited to share that my first postdoctoral paper, *High spatiotemporal resolution monitoring of crop water stress across the contiguous United States enabled by Harmonized Landsat and Sentinel-2*, has been accepted in *Agricultural Water Management*.
+- **December 2025:** I chaired the poster and oral sessions on *Spatiotemporal Dynamics of Forest Disturbance and Recovery* at AGU 2025!
+- **December 2025:** I presented my work on *Mapping Secondary Forest Age Annually at 30-Meter Resolution Across the Contiguous United States* as a poster at AGU 2025!
+- **December 2025:** I presented my work on *Estimating Soil Organic Carbon at National Scale Using EMIT Hyperspectral Data* as a poster at AGU 2025!
 - **November 2025:** I am honored and grateful to join the editorial team of *Remote Sensing in Ecology and Conservation* journal as an Associate Editor!
 - **October 2025:** I was invited as a guest lecturer for GIS5038c Environmental Remote Sensing course at University of Florida!
 - **October 2025:** I served as a guest editor for *Remote Sensing* journal on "Land Cover Change Detection: Emerging Algorithms and Applications in Remote Sensing".
