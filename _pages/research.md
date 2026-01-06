@@ -9,7 +9,7 @@ header:
   caption: White Mountains, USA
 feature_row1:
   - image_path: /assets/images/CropWaterStress.jpg
-    title: "Crop water stress monitoring across the CONUS"
+    title: "Crop water stress monitoring at country scale"
     excerpt: >
       Neal-time monitoring of crop water stress using Harmonizing Landsat and Sentinel-2 data. The key innovation combines change detection with machine learning for earlier crop water stress warnings at country scale.
       <br /><br />
