@@ -18,7 +18,7 @@ feature_row1:
       High spatiotemporal resolution monitoring of crop water stress across the CUNUS (Chen et al. 2026)
       </a>
       
-feature_row1:
+feature_row2:
   - image_path: /assets/images/TropicalForestDisturbance.jpg
     title: "Tropical forest disturbance monitoring"
     excerpt: >
@@ -29,7 +29,7 @@ feature_row1:
       Sub-annual tropical forest disturbance monitoring... (Chen et al. 2021)
       </a>
 
-feature_row2:
+feature_row3:
   - image_path: /assets/images/CarbonStock.jpg
     title: "Carbon stock estimation in tropical secondary forests of Brazil"
     excerpt: >
@@ -40,7 +40,7 @@ feature_row2:
       Revealing Spatial Variation in Biomass Uptake... (Chen et al. 2024)
       </a>
 
-feature_row3:
+feature_row4:
   - image_path: /assets/images/RegrowingForests.jpg
     title: "Biomass and tree cover of regrowing forests in Brazil"
     excerpt: >
@@ -51,7 +51,7 @@ feature_row3:
       Characterizing AGB and Tree Cover... (Chen et al. 2023)
       </a>
 
-feature_row4:
+feature_row5:
   - image_path: /assets/images/MappingMangroves.png
     title: "Mapping mangroves using Sentinel-2"
     excerpt: >
