@@ -16,6 +16,8 @@ header:
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?user=VIiFpBsAAAAJ&hl=en); <sup>*</sup> denotes corresponding author.
 
+**Chen, N.<sup>*</sup>**, Tsendbazar, N.-E.,Feng, Y., Wang, N., Yu, J., Alizadeh, M. R., Cui, Y., Ye, N., Jiao, W., Fisher, J. B., & Terrer, C. (2026). High spatiotemporal resolution monitoring of crop water stress across the contiguous United States using Harmonized Landsat and Sentinel-2 data. Agricultural Water Management, 323, 110094. [https://doi.org/10.1016/j.agwat.2025.110094]  (https://doi.org/10.1016/j.agwat.2025.110094)
+
 Zheng Z., Li, Y., Lyu H., Huang, C., Li, R., **Chen, N.**, Bi, S., Liu, G., Li, Y., Lei, S., Zhang, R. and Huang, C. (2025) Enhanced algorithm for water transparency estimation in turbid plateau waters using Orbita Hyperspectral (OHS) Imagery. IEEE Transactions on Geoscience and Remote Sensing, 63. [http://dx.doi.org/10.1109/TGRS.2025.3543564](http://dx.doi.org/10.1109/TGRS.2025.3543564)  
 
 Zheng Z., Liu, Y., **Chen, N.**, Liu, G., Lei, S., Xu, J., Li, J., Ren, J. and Huang, C. (2024) A 35-Year Analysis of Vegetation Cover in Rare-Earth Mining Areas Using Landsat Data. Forests, 15(11), 1999.[https://doi.org/10.3390/f15111999](https://doi.org/10.3390/f15111999)
