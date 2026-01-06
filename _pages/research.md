@@ -7,7 +7,17 @@ title: "Research"
 header:
   overlay_image: /assets/images/header.jpg
   caption: White Mountains, USA
-
+feature_row0:
+  - image_path: /assets/images/CropWaterStress.jpg
+    title: "Crop water stress monitoring across the CONUS"
+    excerpt: >
+      Neal-time monitoring of crop water stress using Harmonizing Landsat and Sentinel-2 data. The key innovation combines change detection with machine learning for earlier crop water stress warnings at country scale.
+      <br /><br />
+      <strong>Publication:</strong> <br />
+      <a href="https://doi.org/10.1016/j.agwat.2025.110094" target="_blank">
+      High spatiotemporal resolution monitoring of crop water stress across the CUNUS (Chen et al. 2026)
+      </a>
+      
 feature_row1:
   - image_path: /assets/images/TropicalForestDisturbance.jpg
     title: "Tropical forest disturbance monitoring"
