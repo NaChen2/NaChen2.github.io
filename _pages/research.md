@@ -7,7 +7,7 @@ title: "Research"
 header:
   overlay_image: /assets/images/header.jpg
   caption: White Mountains, USA
-feature_row0:
+feature_row1:
   - image_path: /assets/images/CropWaterStress.jpg
     title: "Crop water stress monitoring across the CONUS"
     excerpt: >
