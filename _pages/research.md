@@ -15,7 +15,7 @@ feature_row1:
       <br /><br />
       <strong>Publication:</strong> <br />
       <a href="https://doi.org/10.1016/j.agwat.2025.110094" target="_blank">
-      High spatiotemporal resolution monitoring of crop water stress across the CUNUS (Chen et al. 2026)
+      High spatiotemporal resolution monitoring of crop water stress across the CONUS (Chen et al. 2026)
       </a>
       
 feature_row2:
