@@ -25,6 +25,9 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
+- **February 2026:** I served as a guest lecturer for ENVSCI 625 Principles and Applications of Remote Sensing course at the University of Massachusetts Boston!
+- **February 2026:** I was invited to present a research seminar at Western Michigan University!
+- **February 2026:** I was invited as a USDA panelist!
 - **December 2025:** I’m excited to share that my first postdoctoral paper, *High spatiotemporal resolution monitoring of crop water stress across the contiguous United States enabled by Harmonized Landsat and Sentinel-2*, has been accepted in *Agricultural Water Management*.
 - **December 2025:** I chaired the poster and oral sessions on *Spatiotemporal Dynamics of Forest Disturbance and Recovery* at AGU 2025!
 - **December 2025:** I presented my work on *Mapping Secondary Forest Age Annually at 30-Meter Resolution Across the Contiguous United States* as a poster at AGU 2025!
