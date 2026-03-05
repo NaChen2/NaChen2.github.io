@@ -11,8 +11,11 @@ header:
 ---
 
 ## Teaching
+### University of Massachusetts Boston
+Feb. 2026. Guest Lecturer, ENVSCI 625 Principles and Applications of Remote Sensing
+
 ### University of Florida 
-Oct. 2025. Guest Lecturer, GIS5038c Environmental remote sensing 
+Oct. 2025. Guest Lecturer, GIS5038c Environmental remote sensing
 
 ### University of Maryland, College Park 
 Feb. 2025. Guest Lecturer, GEOG272 Introduction to Earth Observation Science
@@ -20,8 +23,7 @@ Feb. 2025. Guest Lecturer, GEOG272 Introduction to Earth Observation Science
 ### Wageningen University 
 Sept. 2025. Guest Lecturer, GRS-33806 Geo-scripting 
 
-Feb. 2021. Teaching Assistant and Lab Instructor, GRS-33306 Spatial and Temporal Analysis for Earth and 
-Environment 
+Feb. 2021. Teaching Assistant and Lab Instructor, GRS-33306 Spatial and Temporal Analysis for Earth and Environment 
 
 Dec. 2020. Guest lecturer, GRS-20306 Remote Sensing 
 
