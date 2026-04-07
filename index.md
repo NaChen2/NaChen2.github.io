@@ -25,7 +25,10 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
+- **April 2026:** I am pleased to share that my co-authored paper,*Defining and Valuing Reservoir Ecosystem Services: A Unified Framework and Large-Scale Assessment of 400 Representative Chinese Reservoirs*, has been accepted for publication in *Applied Geography*!
+- **March 2026:** I was invited as a guest lecturer for GIS 4037/5038C Remote Sensing of Environment course at the University of Florida!
 - **February 2026:** I served as a guest lecturer for ENVSCI 625 Principles and Applications of Remote Sensing course at the University of Massachusetts Boston!
+- **February 2026:** I’m excited to share that I gave a seminar talk at Western Michigan University!
 - **February 2026:** I was invited as a USDA panelist!
 - **December 2025:** I’m excited to share that my first postdoctoral paper, *High spatiotemporal resolution monitoring of crop water stress across the contiguous United States enabled by Harmonized Landsat and Sentinel-2*, has been accepted in *Agricultural Water Management*.
 - **December 2025:** I chaired the poster and oral sessions on *Spatiotemporal Dynamics of Forest Disturbance and Recovery* at AGU 2025!
