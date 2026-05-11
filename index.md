@@ -25,6 +25,10 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
+- **May 2026:** I presented my work, "Monitoring Post-Disturbance Forest Recovery across the Brazilian Amazon" at ForestSAT 2026 in Gainesville,Florida.
+- **May 2026:** I chaired the session on Leveraging BIOMASS, NISAR or Multi-sensors for Comprehensive Forest Monitoring at ForestSAT 2026!
+- **May 2026:** I presented my work, "Large-scale Tropical Forest Disturbances Monitoring Using Harmonized Landsat and Sentinel-2 data" at ForestSAT 2026 in Gainesville,Florida.
+- **May 2026:** I moderated the session on Mapping forest long-term dynamics through multisensor time series and machine learningg at ForestSAT 2026!
 - **April 2026:** I am pleased to share that my co-authored paper,*Defining and Valuing Reservoir Ecosystem Services: A Unified Framework and Large-Scale Assessment of 400 Representative Chinese Reservoirs*, has been accepted for publication in *Applied Geography*!
 - **March 2026:** I was invited as a guest lecturer for GIS 4037/5038C Remote Sensing of Environment course at the University of Florida!
 - **February 2026:** I served as a guest lecturer for ENVSCI 625 Principles and Applications of Remote Sensing course at the University of Massachusetts Boston!
