@@ -25,6 +25,8 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
+- **June2025:** Started Postdoc at the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), ETH domain!
+- **May 2026:** I have participated the 2nd ESA-NASA Workshop on AI Foundation Models for Earth Observation at Huntsville, Alabama.
 - **May 2026:** I am so glad to share that I have completed the Kaufman Teaching Certificate Program (KTCP) at MIT!
 - **May 2026:** I presented my work, "Monitoring Post-Disturbance Forest Recovery across the Brazilian Amazon" at ForestSAT 2026 in Gainesville,Florida.
 - **May 2026:** I chaired the session on Leveraging BIOMASS, NISAR or Multi-sensors for Comprehensive Forest Monitoring at ForestSAT 2026!
