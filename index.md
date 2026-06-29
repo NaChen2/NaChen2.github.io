@@ -25,6 +25,8 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
+- **June 2025:** Excited to have earned my European Union Aviation Safety Agency (EASA) Drone Certificate (A1/A3)!
+- **June 2025:** Our proposal titled Spatiotemporal Dynamics of Forest Disturbance and Recovery was accepted in AGU 2026!
 - **June2025:** Started Postdoc at the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), ETH domain!
 - **May 2026:** I have participated the 2nd ESA-NASA Workshop on AI Foundation Models for Earth Observation at Huntsville, Alabama.
 - **May 2026:** I am so glad to share that I have completed the Kaufman Teaching Certificate Program (KTCP) at MIT!
