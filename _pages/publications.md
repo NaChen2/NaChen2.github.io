@@ -16,9 +16,9 @@ header:
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?user=VIiFpBsAAAAJ&hl=en); <sup>*</sup> denotes corresponding author.
 
-Heirich V.,et al.(2026) A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration. Science Advances,12(27). [[http://dx.doi.org/10.1126/sciadv.adz19](http://dx.doi.org/10.1126/sciadv.adz19)](http://dx.doi.org/10.1126/sciadv.adz19)  
+Heirich V.,et al.(2026) A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration. Science Advances,12(27).[https://www.science.org/doi/10.1126/sciadv.adz1923](https://www.science.org/doi/10.1126/sciadv.adz1923) 
 
-Ma H., Xu, L., Li, B., Wu, J. and **Chen, N.**. (2026) Defining and valuing reservoir ecosystem services: A unified framework and large-scale assessment of 400 representative Chinese reservoirs. Applied Geography, 191. [[[http://dx.doi.org/10.1109/TGRS.2025.3543564](http://dx.doi.org/10.1016/j.apgeog.2026.104013)](http://dx.doi.org/10.1016/j.apgeog.2026.104013)](http://dx.doi.org/10.1016/j.apgeog.2026.104013)  
+Ma H., Xu, L., Li, B., Wu, J. and **Chen, N.**. (2026) Defining and valuing reservoir ecosystem services: A unified framework and large-scale assessment of 400 representative Chinese reservoirs. Applied Geography, 191.[https://doi.org/10.1016/j.apgeog.2026.104013](https://doi.org/10.1016/j.apgeog.2026.104013) 
 
 **Chen, N.<sup>*</sup>**,Feng, Y., Wang, N., Yu, J., Alizadeh, M. R., Cui, Y., Ye, N., Jiao, W., Fisher, J. B., & Terrer, C. (2026). High spatiotemporal resolution monitoring of crop water stress across the contiguous United States using Harmonized Landsat and Sentinel-2 data. Agricultural Water Management, 323, 110094. [https://doi.org/10.1016/j.agwat.2025.110094](https://doi.org/10.1016/j.agwat.2025.110094)
 
