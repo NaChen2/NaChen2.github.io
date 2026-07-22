@@ -25,7 +25,8 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
-- **July 2026:** I am excited to share that my co-authored paper,*A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration*, has been accepted for publication in *Science Adavances*!
+- **July 2026:** I was invited as a NASA panelist!
+- **July 2026:** I am excited to share that my co-authored paper,*A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration*, has been accepted for publication in *Science Advances*!
 - **June 2026:** Excited to share that I have received my European Union Aviation Safety Agency (EASA) Remote Pilot Certificate (A1/A3)!
 - **June 2026:** Our proposal titled Spatiotemporal Dynamics of Forest Disturbance and Recovery was accepted in AGU 2026!
 - **June2026:** Started Postdoc at the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), ETH domain!
