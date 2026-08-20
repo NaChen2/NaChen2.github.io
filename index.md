@@ -25,6 +25,8 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
+- **August 2026:** I’m excited to share that my paper, *Assessing the value of Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization in Brazil and Peruvian Amazonia, has been accepted in *Agricultural and Forest Meteorology*!
+- **August 2026:** I presented my work, "Earth Observation for Near-Real-Time Monitoring of Large-Scale Tropical Forest Disturbances" as an invited talk at 2026 International Symposium on Spatiotemporal Data Science in Alexandria,Virginia (online).
 - **July 2026:** I was invited as a NASA panelist!
 - **July 2026:** I am excited to share that my co-authored paper,*A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration*, has been accepted for publication in *Science Advances*!
 - **June 2026:** Excited to share that I have received my European Union Aviation Safety Agency (EASA) Remote Pilot Certificate (A1/A3)!
@@ -32,9 +34,9 @@ My research focuses on applying remote sensing to better understand when, where,
 - **June2026:** Started Postdoc at the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), ETH domain!
 - **May 2026:** I have participated the 2nd ESA-NASA Workshop on AI Foundation Models for Earth Observation at Huntsville, Alabama.
 - **May 2026:** I am so glad to share that I have completed the Kaufman Teaching Certificate Program (KTCP) at MIT!
-- **May 2026:** I presented my work, "Monitoring Post-Disturbance Forest Recovery across the Brazilian Amazon" at ForestSAT 2026 in Gainesville,Florida.
+- **May 2026:** I presented my work, "Monitoring Post-Disturbance Forest Recovery across the Brazilian Amazon" as an invited talk at ForestSAT 2026 in Gainesville,Florida.
 - **May 2026:** I chaired the session on Leveraging BIOMASS, NISAR or Multi-sensors for Comprehensive Forest Monitoring at ForestSAT 2026!
-- **May 2026:** I presented my work, "Large-scale Tropical Forest Disturbances Monitoring Using Harmonized Landsat and Sentinel-2 data" at ForestSAT 2026 in Gainesville,Florida.
+- **May 2026:** I presented my work, "Large-scale Tropical Forest Disturbances Monitoring Using Harmonized Landsat and Sentinel-2 data" as an invited talk at ForestSAT 2026 in Gainesville,Florida.
 - **May 2026:** I moderated the session on Mapping forest long-term dynamics through multisensor time series and machine learningg at ForestSAT 2026!
 - **April 2026:** I am pleased to share that my co-authored paper,*Defining and Valuing Reservoir Ecosystem Services: A Unified Framework and Large-Scale Assessment of 400 Representative Chinese Reservoirs*, has been accepted for publication in *Applied Geography*!
 - **March 2026:** I was invited as a guest lecturer for GIS 4037/5038C Remote Sensing of Environment course at the University of Florida!
