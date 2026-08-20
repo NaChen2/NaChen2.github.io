@@ -25,8 +25,8 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
-- **August 2026:** I’m excited to share that my paper, *Assessing the value of Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization in Brazil and Peruvian Amazonia, has been accepted in *Agricultural and Forest Meteorology*!
-- **August 2026:** I presented my work, "Earth Observation for Near-Real-Time Monitoring of Large-Scale Tropical Forest Disturbances" as an invited talk at 2026 International Symposium on Spatiotemporal Data Science in Alexandria,Virginia (online).
+- **August 2026:** I’m excited to share that my paper, *Assessing the value of Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization in Brazil and Peruvian Amazonia*, has been accepted in *Agricultural and Forest Meteorology*!
+- **August 2026:** I presented my work, *Earth Observation for Near-Real-Time Monitoring of Large-Scale Tropical Forest Disturbances* as an invited talk at 2026 International Symposium on Spatiotemporal Data Science in Alexandria,Virginia (online).
 - **July 2026:** I was invited as a NASA panelist!
 - **July 2026:** I am excited to share that my co-authored paper,*A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration*, has been accepted for publication in *Science Advances*!
 - **June 2026:** Excited to share that I have received my European Union Aviation Safety Agency (EASA) Remote Pilot Certificate (A1/A3)!
