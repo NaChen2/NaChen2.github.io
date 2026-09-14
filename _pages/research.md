@@ -7,6 +7,11 @@ title: "Research"
 header:
   overlay_image: /assets/images/header.jpg
   caption: White Mountains, USA
+
+
+
+
+
 feature_row1:
   - image_path: /assets/images/UpscalingCarbonStock.jpg
     title: "Upscaling Tropical Secondary Forest Biomass Characterization"
