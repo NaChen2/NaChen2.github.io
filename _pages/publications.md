@@ -16,7 +16,11 @@ header:
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?user=VIiFpBsAAAAJ&hl=en); <sup>*</sup> denotes corresponding author.
 
-Heinrich V., Holcomb, A., Besnard, S., Requena Suarez, D., Cook- Patton, S., Bourgoin, C., Chazdon, R., Gibbs, D. A., Mendes, F.S., McNicol, I., Wheeler, C., Silva-Junior, C.H.L., Amani, B.H.K.,Bastin, J., Nguba. T.B., **Chen, N.**, Chen, H., Ciais, P., Dalagno, R., Dou, X., Duan, Q., Gao, X., Goodarzi, A.N., Hérault, B., House, H., Lapola, D. M., Liang, M., Meng, Z., Nabuurs, G., Poor, E., Parsons, L., Reiche, J., Sitch, S., Ruben Valbuena, R., Welsink, A., Wiltshire, S., Wu, C., Xu, Y., Zhao, J., Aragão, L. and Herold, M.(2026). A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration. Science Advances,12(27).[https://www.science.org/doi/10.1126/sciadv.adz1923](https://www.science.org/doi/10.1126/sciadv.adz1923) 
+**Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., C. H. L. Silva-Junior Verbesselt, J. and Herold, M. (2024) Assessing the value of Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization in Brazil and Peruvian Amazonia. Agricultural and Forest Meteorology. 390, 111429. 
+[https://doi.org/10.1016/j.agrformet.2026.111429](https://doi.org/10.1016/j.agrformet.2026.111429)
+
+Heinrich V., Holcomb, A., Besnard, S., Requena Suarez, D., Cook- Patton, S., Bourgoin, C., Chazdon, R., Gibbs, D. A., Mendes, F.S., McNicol, I., Wheeler, C., Silva-Junior, C.H.L., Amani, B.H.K.,Bastin, J., Nguba. T.B., **Chen, N.**, Chen, H., Ciais, P., Dalagno, R., Dou, X., Duan, Q., Gao, X., Goodarzi, A.N., Hérault, B., House, H., Lapola, D. M., Liang, M., Meng, Z., Nabuurs, G., Poor, E., Parsons, L., Reiche, J., Sitch, S., Ruben Valbuena, R., Welsink, A., Wiltshire, S., Wu, C., Xu, Y., Zhao, J., Aragão, L. and Herold, M.(2026). A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration. Science Advances,12(27).
+[https://www.science.org/doi/10.1126/sciadv.adz1923](https://www.science.org/doi/10.1126/sciadv.adz1923) 
 
 Ma H., Xu, L., Li, B., Wu, J. and **Chen, N.**. (2026) Defining and valuing reservoir ecosystem services: A unified framework and large-scale assessment of 400 representative Chinese reservoirs. Applied Geography, 191.[https://doi.org/10.1016/j.apgeog.2026.104013](https://doi.org/10.1016/j.apgeog.2026.104013) 
 
