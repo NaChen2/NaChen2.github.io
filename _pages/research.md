@@ -13,7 +13,7 @@ header:
 
 
 feature_row1:
-  - image_path: /assets/images/UpscalingCarbonStock.jpg
+  - image_path: /assets/images/UpscalingCarbon.jpg
     title: "Upscaling Tropical Secondary Forest Biomass Characterization"
     excerpt: >
      Assessing Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization. The key innovation combines Landsat time series and LandTrendr-derived forest age and regrowth metrics to upscale secondary forest aboveground biomass, providing a scalable alternative where spatially explicit forest age products are unavailable.
