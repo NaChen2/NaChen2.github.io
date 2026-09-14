@@ -7,8 +7,9 @@ title: "Research"
 header:
   overlay_image: /assets/images/header.jpg
   caption: White Mountains, USA
+
 feature_row1:
-  - image_path: /assets/images/UpscalingCarbonStock.png
+  - image_path: /assets/images/CropWaterStress.jpg
     title: "Earth Observation for Upscaling Tropical Secondary Forest Biomass Characterization"
     excerpt: >
       Neal-Real-Time monitoring of crop water stress using Harmonizing Landsat and Sentinel-2 data. The key innovation combines change detection with machine learning for earlier crop water stress warnings at country scale.
