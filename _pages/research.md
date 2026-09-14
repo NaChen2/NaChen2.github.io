@@ -8,17 +8,27 @@ header:
   overlay_image: /assets/images/header.jpg
   caption: White Mountains, USA
 feature_row1:
+  - image_path: /assets/images/UpscalingCarbonStock.jpg
+    title: "Upscaling Tropical Secondary Forest Biomass Using Earth Observation-Based Regrowth Metrics"
+    excerpt: >
+      Neal-Real-Time monitoring of crop water stress using Harmonizing Landsat and Sentinel-2 data. The key innovation combines change detection with machine learning for earlier crop water stress warnings at country scale.
+      <br /><br />
+      <strong>Publication:</strong> <br />
+      <a href="https://doi.org/10.1016/j.agrformet.2026.111429" target="_blank">
+      Earth observation-based regrowth metrics for upscaling forest biomass characterization (Chen et al. 2026)
+      </a>
+feature_row2:
   - image_path: /assets/images/CropWaterStress.jpg
     title: "Crop water stress monitoring at country scale"
     excerpt: >
-      Neal-time monitoring of crop water stress using Harmonizing Landsat and Sentinel-2 data. The key innovation combines change detection with machine learning for earlier crop water stress warnings at country scale.
+      Neal-Real-Time monitoring of crop water stress using Harmonizing Landsat and Sentinel-2 data. The key innovation combines change detection with machine learning for earlier crop water stress warnings at country scale.
       <br /><br />
       <strong>Publication:</strong> <br />
       <a href="https://doi.org/10.1016/j.agwat.2025.110094" target="_blank">
       High spatiotemporal resolution monitoring of crop water stress across the CONUS (Chen et al. 2026)
       </a>
       
-feature_row2:
+feature_row3:
   - image_path: /assets/images/TropicalForestDisturbance.jpg
     title: "Tropical forest disturbance monitoring"
     excerpt: >
@@ -29,7 +39,7 @@ feature_row2:
       Sub-annual tropical forest disturbance monitoring... (Chen et al. 2021)
       </a>
 
-feature_row3:
+feature_row4:
   - image_path: /assets/images/CarbonStock.jpg
     title: "Carbon stock estimation in tropical secondary forests of Brazil"
     excerpt: >
@@ -40,7 +50,7 @@ feature_row3:
       Revealing Spatial Variation in Biomass Uptake... (Chen et al. 2024)
       </a>
 
-feature_row4:
+feature_row5:
   - image_path: /assets/images/RegrowingForests.jpg
     title: "Biomass and tree cover of regrowing forests in Brazil"
     excerpt: >
@@ -51,7 +61,7 @@ feature_row4:
       Characterizing AGB and Tree Cover... (Chen et al. 2023)
       </a>
 
-feature_row5:
+feature_row6:
   - image_path: /assets/images/MappingMangroves.png
     title: "Mapping mangroves using Sentinel-2"
     excerpt: >
@@ -69,4 +79,4 @@ feature_row5:
 {% include feature_row id="feature_row3" type="left" %}  
 {% include feature_row id="feature_row4" type="left" %}      
 {% include feature_row id="feature_row5" type="left" %}
-
+{% include feature_row id="feature_row6" type="left" %}
