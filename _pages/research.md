@@ -77,8 +77,6 @@ feature_row6:
       Mapping Mangrove Forests... (Chen 2020)
       </a>
 ---
-
-
 {% include feature_row id="feature_row1" type="left" %}  
 {% include feature_row id="feature_row2" type="left" %}  
 {% include feature_row id="feature_row3" type="left" %}  
