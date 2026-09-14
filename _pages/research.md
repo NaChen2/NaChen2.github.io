@@ -12,7 +12,7 @@ feature_row1:
   - image_path: /assets/images/UpscalingCarbonStock.jpg
     title: "Upscaling Tropical Secondary Forest Biomass Characterization"
     excerpt: >
-      Neal-Real-Time monitoring of crop water stress using Harmonizing Landsat and Sentinel-2 data. The key innovation combines change detection with machine learning for earlier crop water stress warnings at country scale.
+     Assessing Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization in Brazil and Peruvian Amazonia. The key innovation combines Landsat time series and LandTrendr-derived forest age and regrowth metrics with geographically weighted regression to spatially upscale secondary forest aboveground biomass (AGB), providing a scalable alternative where spatially explicit forest age products are unavailable.
       <br /><br />
       <strong>Publication:</strong> <br />
       <a href="https://doi.org/10.1016/j.agrformet.2026.111429" target="_blank">
