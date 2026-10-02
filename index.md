@@ -31,7 +31,7 @@ My research focuses on applying remote sensing to better understand when, where,
 - **July 2026:** I am excited to share that my co-authored paper,*A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration*, has been accepted for publication in *Science Advances*!
 - **June 2026:** Excited to share that I have received my European Union Aviation Safety Agency (EASA) Remote Pilot Certificate (A1/A3)!
 - **June 2026:** Our proposal titled Spatiotemporal Dynamics of Forest Disturbance and Recovery was accepted in AGU 2026!
-- **June2026:** Started Postdoc at the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), ETH domain!
+- **June 2026:** Started Postdoc at the Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), ETH domain!
 - **May 2026:** I have participated the 2nd ESA-NASA Workshop on AI Foundation Models for Earth Observation at Huntsville, Alabama.
 - **May 2026:** I am so glad to share that I have completed the Kaufman Teaching Certificate Program (KTCP) at MIT!
 - **May 2026:** I presented my work, "Monitoring Post-Disturbance Forest Recovery across the Brazilian Amazon" as an invited talk at ForestSAT 2026 in Gainesville,Florida.
