@@ -28,10 +28,10 @@ My research focuses on applying remote sensing to better understand when, where,
 - **October 2026:** I participated the ESA’s 2026 BIOMASS MAAP Hackathon!
 - **October 2026:** I presented my work, *From Disturbance to Recovery: Monitoring Tropical Forest Change with Earth Observation* at 2026 International Conference on Geospatial Information Science: Education, Innovation and Applications, Wuhan, China (online).
 - **October 2026:** I was invited as a NASA panelist!
-- **September 2025:** I participated the AI + Environment Summit 2026 at Zurich!
-- **September 2025:** I served as a guest lecturer for GRS33806 Geoscripting course at Wageningen University!
+- **September 2026:** I participated the AI + Environment Summit 2026 at Zurich!
+- **September 2026:** I served as a guest lecturer for GRS33806 Geoscripting course at Wageningen University!
 - **August 2026:** I’m excited to share that my paper, *Assessing the value of Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization in Brazil and Peruvian Amazonia*, has been accepted in *Agricultural and Forest Meteorology*!
-- **August 2025:** I started to serve as an early career editorial board member for *Forests*.
+- **August 2026:** I started to serve as an early career editorial board member for *Forests*.
 - **August 2026:** I presented my work, *Earth Observation for Near-Real-Time Monitoring of Large-Scale Tropical Forest Disturbances* as an invited talk at 2026 International Symposium on Spatiotemporal Data Science in Alexandria,Virginia (online).
 - **July 2026:** I was invited as a NASA panelist!
 - **July 2026:** I am excited to share that my co-authored paper,*A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration*, has been accepted for publication in *Science Advances*!
