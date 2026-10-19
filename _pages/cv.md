@@ -22,11 +22,11 @@ Sept.2009-Jul.2013    BSc in Geography, Gannan Normal University
 
 
 ### Working Experience
-Jun.2026–Present    Postdoctoral Associate (Supervisor: Dr. Lalasia Bialic-Murphy), Swiss Federal Institute for Forest, Snow and Landscape Research (WSL),ETH Domain
+Jun.2026–Present    Postdoctoral Researcher, Swiss Federal Institute for Forest, Snow and Landscape Research (WSL),ETH Domain
 
-Jun.2025–Jun.2026    Postdoctoral Associate (Supervisor: Prof. Sherrie Wang), Department of Mechanical Engineering, Massachusetts Institute of Technology
+Jun.2025–Jun.2026    Postdoctoral Associate, Department of Mechanical Engineering, Massachusetts Institute of Technology
 
-Feb.2024-May.2025   Postdoctoral Associate (Supervisor: Prof. César Terrer), Dept. of Civil and Environmental Engineering, Massachusetts Institute of Technology
+Feb.2024-May.2025   Postdoctoral Associate, Dept. of Civil and Environmental Engineering, Massachusetts Institute of Technology
 
 Aug.2021–Jan.2022   Geospatial Analyst Intern, SDG Integration Team, United Nations Development Programme, New York, USA (Remote,Part-time)
 
