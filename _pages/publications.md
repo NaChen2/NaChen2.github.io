@@ -15,8 +15,11 @@ header:
 ## Publications
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?user=VIiFpBsAAAAJ&hl=en); <sup>*</sup> denotes corresponding author.
+**Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., C. H. L. Silva-Junior Verbesselt, J. and Herold, M. (2026) Assessing Dothistroma needle blight severity in Pinus radiata using UAV multispectral imagery. International Journal of Applied Earth Observation and Geoinformation. 154, 105663. 
+[https://www.sciencedirect.com/science/article/pii/S1569843226005790](https://www.sciencedirect.com/science/article/pii/S1569843226005790)
 
-**Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., C. H. L. Silva-Junior Verbesselt, J. and Herold, M. (2026) Assessing the value of Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization in Brazil and Peruvian Amazonia. Agricultural and Forest Meteorology. 390, 111429. 
+Ye, N., Morgenroth, J.,Stout, W., Arojju, S.K., Apiolaza, L.A.,Paget, M. F., Wu, Y.,**Chen, N.**, He, P.,Avis, J.,
+Xu, C.,Li, Q. (2026) Assessing the value of Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization in Brazil and Peruvian Amazonia. Agricultural and Forest Meteorology. 390, 111429. 
 [https://doi.org/10.1016/j.agrformet.2026.111429](https://doi.org/10.1016/j.agrformet.2026.111429)
 
 Heinrich V., Holcomb, A., Besnard, S., Requena Suarez, D., Cook- Patton, S., Bourgoin, C., Chazdon, R., Gibbs, D. A., Mendes, F.S., McNicol, I., Wheeler, C., Silva-Junior, C.H.L., Amani, B.H.K.,Bastin, J., Nguba. T.B., **Chen, N.**, Chen, H., Ciais, P., Dalagno, R., Dou, X., Duan, Q., Gao, X., Goodarzi, A.N., Hérault, B., House, H., Lapola, D. M., Liang, M., Meng, Z., Nabuurs, G., Poor, E., Parsons, L., Reiche, J., Sitch, S., Ruben Valbuena, R., Welsink, A., Wiltshire, S., Wu, C., Xu, Y., Zhao, J., Aragão, L. and Herold, M.(2026). A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration. Science Advances,12(27).
@@ -43,7 +46,7 @@ Zheng Z., Huang, C., Li, Y., Lyu, H., Huang, C., **Chen, N.**, Liu, G., Guo, Y.,
 
 Li J., Zheng, Z., Liu, J., **Chen, N.**, Lei, S., Du, C., Xu, J., Li, Y., Zhang, R., Huang, C. (2023). Estimating Effects of Natural and Anthropogenic Activities on Trophic Level of Inland Water: Analysis of Poyang Lake Basin, China, with Landsat-8 Observations. Remote Sensing, 15(6), 1618.[https://doi.org/10.3390/rs15061618](https://doi.org/10.3390/rs15061618)
 
-Ye, N., Morgenroth, J., Xu, C., **Chen, N.**, (2021) Indigenous forest classification in New Zealand – a comparison of classifiers and sensor. International Journal of Applied Earth Observation and Geoinformation,102, 102395.[https://doi.org/10.1016/j.jag.2021.102395](https://doi.org/10.1016/j.jag.2021.102395)
+Ye, N., Morgenroth, J., Xu, C., **Chen, N.** (2021) Indigenous forest classification in New Zealand – a comparison of classifiers and sensor. International Journal of Applied Earth Observation and Geoinformation,102, 102395.[https://doi.org/10.1016/j.jag.2021.102395](https://doi.org/10.1016/j.jag.2021.102395)
 
 **Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Hamunyela, E., Verbesselt, J. and Herold, M. (2021) Sub-annual tropical forest disturbance monitoring using harmonized Landsat and Sentinel-2 data. International Journal of Applied Earth Observation and Geoinformation, 102, 102386.[https://doi.org/10.1016/j.jag.2021.102386](https://doi.org/10.1016/j.jag.2021.102386)
 
