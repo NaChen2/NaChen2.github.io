@@ -11,6 +11,9 @@ header:
 ---
 
 ## Teaching
+### ETH Zürich
+Nov. 2026 Guest Lecturer, Conservation and Restoration Ecology
+
 ### Wageningen University 
 Sept. 2026 Guest Lecturer, GRS-33806 Geo-scripting 
 
