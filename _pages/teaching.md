@@ -50,11 +50,11 @@ Dec. 2020 Guest lecturer, GRS-20306 Remote Sensing
 
 2015 Fall Semester, Human Geography
 
-2016 Spring Semester, Tourism Geography &Natural hazard and prevention & GIS applications
+2016 Spring Semester, Tourism Geography, Natural hazard and prevention, GIS applications
 
-2016 Spring Semester, World Geography& China Geography 
+2016 Spring Semester, World Geography, China Geography 
 
-2017 Spring Semester, Physical Geography & Human Geography & GIS applications 
+2017 Spring Semester, Physical Geography, Human Geography, GIS applications 
 
 ## Mentoring
 ### Wageningen University
