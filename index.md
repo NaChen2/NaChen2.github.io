@@ -25,7 +25,7 @@ My research focuses on applying remote sensing to better understand when, where,
 ---
 
 ## News
-- **November 2026:** I served as a guest lecturer for Conservation and Restoration Ecology course at ETH Zurich!
+- **November 2026:** I served as a guest lecturer for Conservation and Restoration Ecology course at ETH,Zürich!
 - **November 2026:** I am excited to share that my co-authored paper,*Assessing Dothistroma needle blight severity in Pinus radiata using UAV multispectral imagery*, has been accepted for publication in *International Journal of Applied Earth Observation and Geoinformation*!
 - **October 2026:** Our proposal titled *Remote Sensing for Forest Disturbance, Recovery and Resilience: From Trees to Landscapes* was accepted for EGU 2027!
 - **October 2026:** I participated the ESA’s 2026 BIOMASS MAAP Hackathon!
