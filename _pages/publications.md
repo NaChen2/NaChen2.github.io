@@ -15,11 +15,12 @@ header:
 ## Publications
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?user=VIiFpBsAAAAJ&hl=en); <sup>*</sup> denotes corresponding author.
-**Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., C. H. L. Silva-Junior Verbesselt, J. and Herold, M. (2026) Assessing Dothistroma needle blight severity in Pinus radiata using UAV multispectral imagery. International Journal of Applied Earth Observation and Geoinformation. 154, 105663. 
+
+Ye, N., Morgenroth, J., Stout, W., Arojju, S. K., Apiolaza, L. A., Paget, M. F., Wu, Y., **Chen, N.**, He, P.,
+Avis, J., Xu, C., Li, Q. (2026) Assessing Dothistroma needle blight severity in Pinus radiata using UAV multispectral imagery. International Journal of Applied Earth Observation and Geoinformation. 154, 105663. 
 [https://www.sciencedirect.com/science/article/pii/S1569843226005790](https://www.sciencedirect.com/science/article/pii/S1569843226005790)
 
-Ye, N., Morgenroth, J.,Stout, W., Arojju, S.K., Apiolaza, L.A.,Paget, M. F., Wu, Y.,**Chen, N.**, He, P.,Avis, J.,
-Xu, C.,Li, Q. (2026) Assessing the value of Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization in Brazil and Peruvian Amazonia. Agricultural and Forest Meteorology. 390, 111429. 
+**Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., C. H. L. Silva-Junior, Verbesselt, J. and Herold, M.(2026) Assessing the value of Earth observation-based regrowth metrics for upscaling tropical secondary forest biomass characterization in Brazil and Peruvian Amazonia. Agricultural and Forest Meteorology. 390, 111429. 
 [https://doi.org/10.1016/j.agrformet.2026.111429](https://doi.org/10.1016/j.agrformet.2026.111429)
 
 Heinrich V., Holcomb, A., Besnard, S., Requena Suarez, D., Cook- Patton, S., Bourgoin, C., Chazdon, R., Gibbs, D. A., Mendes, F.S., McNicol, I., Wheeler, C., Silva-Junior, C.H.L., Amani, B.H.K.,Bastin, J., Nguba. T.B., **Chen, N.**, Chen, H., Ciais, P., Dalagno, R., Dou, X., Duan, Q., Gao, X., Goodarzi, A.N., Hérault, B., House, H., Lapola, D. M., Liang, M., Meng, Z., Nabuurs, G., Poor, E., Parsons, L., Reiche, J., Sitch, S., Ruben Valbuena, R., Welsink, A., Wiltshire, S., Wu, C., Xu, Y., Zhao, J., Aragão, L. and Herold, M.(2026). A meta-analysis of carbon losses and gains from tropical moist forest degradation and regeneration. Science Advances,12(27).
@@ -37,7 +38,7 @@ Cui, Y., Dong, J., Zhang, C., Yang, J., **Chen, N.**, Guo, P., Di, Y., Chen, M.,
 
 Li, J., Zheng Z., Li, Y., Lyu, H., Ren, J., Cai, X., Du, C., **Chen, N.**, Liu, G., Lei, S., Zhang, R. and Huang, C. (2024) A hybrid algorithm for estimating total nitrogen from a large eutrophic plateau lake using Orbita hyperspectral (OHS) satellite imagery. International Journal of Applied Earth Observation and Geoinformation, 131, 103971.[https://doi.org/10.1016/j.jag.2024.103971](https://doi.org/10.1016/j.jag.2024.103971)
 
-**Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., C. H. L. Silva-Junior Verbesselt, J. and Herold, M. (2024) Revealing the Spatial Variation in Biomass Uptake Rates of Brazil's Secondary Forests. ISPRS Journal of Photogrammetry and Remote Sensing. 208, 233-244. 
+**Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., C. H. L. Silva-Junior, Verbesselt, J. and Herold, M. (2024) Revealing the Spatial Variation in Biomass Uptake Rates of Brazil's Secondary Forests. ISPRS Journal of Photogrammetry and Remote Sensing. 208, 233-244. 
 [https://doi.org/10.1016/j.isprsjprs.2023.12.013](https://doi.org/10.1016/j.isprsjprs.2023.12.013)
 
 **Chen, N.<sup>*</sup>**, Tsendbazar, N.-E., Requena Suarez, D., Verbesselt, J. and Herold, M. (2023) Characterizing aboveground biomass and tree cover of regrowing forests in Brazil using multi-source remote sensing data. Remote Sensing in Ecology and Conservation. 9(4), 553 - 567.[https://doi.org/10.1002/rse2.328](https://doi.org/10.1002/rse2.328)
